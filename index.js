@@ -1,3 +1,5 @@
-const hello = "Hello, world";
+const hello = 'Hello, world';
 
 console.info(hello);
+
+console.info('aaa');
